@@ -2,7 +2,7 @@
 Challenge Module 08 Prophet
 
 ## About the challenge
-In this challenge we used information from Google Search and MercadoLibre stock prices
+In this challenge we used information from Google Search and [MercadoLibre](https://mercadolibre.com/) stock prices
 - The idea was to identify a correlation between the Number of searches and the changes in stock prices by:
   1. Identifying unusual patterns in hourly Google search traffic, 
   2. Mining the search traffic data for seasonality, 
@@ -11,10 +11,10 @@ In this challenge we used information from Google Search and MercadoLibre stock 
 
 ## The tools
 - The main tools used in this project where:
-  1. Pandas
-  2. numpy
+  1. [Pandas](https://pandas.pydata.org/)
+  2. [Numpy](https://numpy.org/)
   3. [Prophet](https://facebook.github.io/prophet/)
-  4. Matplotlib
+  4. [Matplotlib](https://matplotlib.org/)
 
 ## About the data
 - The Google Search data consists of 37,106 records with hourly search counts ( 2 columns datetime and count ) between June 01, 2016 and September 08,2020
